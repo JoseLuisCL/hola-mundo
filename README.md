@@ -1,2 +1,5 @@
 # hola-mundo
-mi primer repositorio de prueba.
+Mi primer repositorio de prueba.
+
+Autor: JoseLuisCL
+Fecha: 06/02/2022
